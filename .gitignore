@@ -1,0 +1,21 @@
+target
+.project
+.settings
+.classpath
+*.class
+target/
+project/boot/
+##
+## emacs stuff
+##
+project/.ensime
+.ensime*/
+ensime_port
+.#*
+.history
+.cache
+native/
+##
+## local overrides
+##
+.envrc
