@@ -11,7 +11,7 @@ Specifications:
     def e1 =  {
     val ls = (0 to 4).toList
     val computed =  computePermutation(ls)
-    println(s"${computed}")
+   // println(s"${computed}")
 
       computed.size ===5*4*3*2 &&
          computed.toSet.size === computed.size
