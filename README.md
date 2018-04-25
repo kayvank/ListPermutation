@@ -33,11 +33,11 @@ Please note the original problem did not ask for a tail recursive solution. Prop
 ##### Source code
 
 - source code: 
-..- [ListPermutation](./src/main/scala/intrvw/ListPermutation.scala)
-..- [Spreadsheet](./src/main/scala/intrvw/Spreadsheet.scala)
+    - [ListPermutation](./src/main/scala/intrvw/ListPermutation.scala)
+    - [Spreadsheet](./src/main/scala/intrvw/Spreadsheet.scala)
 - Unit test: 
-..- [ListPermutationSpec](./src/test/scala/intrvw/ListPermutationSpec.scala)
-..- [SpreadsheetSpec](./src/test/scala/intrvw/SpreadsheetSpec.scala)
+    - [ListPermutationSpec](./src/test/scala/intrvw/ListPermutationSpec.scala)
+    - [SpreadsheetSpec](./src/test/scala/intrvw/SpreadsheetSpec.scala)
 
 ### Autors
 
