@@ -11,13 +11,13 @@ Spreadsheet specs are:
   def e1={
     val testData = ("-",List(9,4))
     val computed = compute(testData._1, testData._2)
-    println(s" compute = ${computed}")
+    //println(s" compute = ${computed}")
     5 must_== computed
   }
   def e2={
     val computed = cell("1 2 * 4 5 + 8 7 -")
-    println(s"cell computations = ${computed}")
-    1 must_== 1
+    //println(s"cell computations = ${computed}")
+    12 must_== computed
   }
 
 }

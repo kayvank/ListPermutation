@@ -39,6 +39,6 @@ Please note the original problem did not ask for a tail recursive solution. Prop
     - [ListPermutationSpec](./src/test/scala/intrvw/ListPermutationSpec.scala)
     - [SpreadSheetSpec](./src/test/scala/intrvw/SpreadsheetSpec.scala)
 
-### Autors
+### Authors
 
 - Kayvan Kazeminejad
